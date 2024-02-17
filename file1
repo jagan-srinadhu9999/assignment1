@@ -1,0 +1,2 @@
+This file has java install cmd 
+sudo apt-get install openjdk-11-jdk -y
